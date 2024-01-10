@@ -1,3 +1,5 @@
+[![Build Status](http://localhost:8080/buildStatus/icon?job=Challenge_02)](http://localhost:8080/job/Challenge_02/)
+
 # 03_05 Challenge Connect Jenkins to GitHub
 
 [![Build Status](http://localhost:8080/buildStatus/icon?job=Challenge_02)](http://localhost:8080/job/Challenge_02/)
